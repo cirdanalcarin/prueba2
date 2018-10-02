@@ -1,2 +1,2 @@
-# practica del github
+# practica de git y github
 prueba de github
