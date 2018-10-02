@@ -6,3 +6,4 @@ version 1.0
     style
     page1.html
     page2.html
+    
